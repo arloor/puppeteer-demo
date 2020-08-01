@@ -13,5 +13,7 @@ puppeteer文档： https://pptr.dev/#?product=Puppeteer&version=v5.2.1
 
 知道node的async和await我就开始写。
 
+[狼叔：如何正确的学习Node.js](https://cnodejs.org/topic/5ab3166be7b166bb7b9eccf7)
+[IBM:Node.js 学习路径概述](https://developer.ibm.com/zh/articles/learn-node-unit-1-overview-nodejs-learning-path/)
 
 
